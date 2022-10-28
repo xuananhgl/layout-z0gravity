@@ -1,0 +1,100 @@
+.back{
+  width: 100px;
+  height: 30px;
+  border-radius: 5px;
+
+  line-height: 30px;
+  text-align: center;
+  background: #F1F6FA;
+  margin-right: 30px;
+}
+.back:hover{
+  background: #fff;
+}
+.profile{
+padding-left: 20px;
+
+width: 250px;
+height: 200px;
+border-radius: 5px;
+margin-bottom: 10px;
+margin-top: 50px;
+margin-left: 300px;
+background: #fff;
+}
+.profile>img{
+  width: 100px;
+}
+.username{
+  font-size: 24px;
+}
+.email{
+  color: #CCC;
+}
+.account{
+  width: 250px;
+  height: 200px;
+  padding: 20px;
+
+  border-radius: 5px;
+  margin-bottom: 10px;
+  margin-left: 300px;
+  background: #fff;
+ }
+ .account>p{
+   font-weight: bold;
+   font-size: 18px;
+   color: #000;
+ }
+ .dashboard{
+   width: 250px;
+   height: 330px;
+
+   border-radius: 5px;
+   padding: 20px;
+   margin-bottom: 10px;
+     margin-left: 300px;
+     background: #fff;
+ }
+ .dashboard>p{
+   font-weight: bold;
+   font-size: 18px;
+   color: #000;
+ }
+  .my_style{
+    color:#ccc;
+    font-size: 18px;
+  }
+ .logout{
+width: 100px;
+height: 30px;
+
+border-radius: 5px;
+margin-left: 300px;
+ }
+.logout>p{
+   font-weight: bold;
+   line-height: 30px;
+   color: #000;
+
+ }
+ .list{
+   width: 400px;
+   height: 100px;
+
+   margin: auto;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   border-radius: 5px;
+   font-size: 50px;
+   text-align: center;
+   line-height: 100px;
+   margin-top: 300px;
+   background: #FFF;
+ }
+ .list>span{
+   font-size: 100px;
+   color: #CCC;
+
+ }
